@@ -1,10 +1,11 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
 <p align="left">My name is Zhou Liu and I'm an international student from China</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 ###
 
 <h2 align="left">About me</h2>
