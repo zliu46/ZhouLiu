@@ -1,4 +1,3 @@
-![MasterHead](https://github.com/zliu46/ZhouLiu/blob/main/github-header-image.png)
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
