@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022 <br>📚 I'm currently pursuing master's in computer science<br>🎯 Goals: To be a software engineer <br>🎲 Fun fact: I like American Muscle Car </p>
+<p align="left">✨ Creating bugs since 2022 <br>📚 I'm currently pursuing master's in computer science<br>🎯 Goals: To be a software engineer <br>🎲 Fun fact: I like sports </p>
 
 ###
 
