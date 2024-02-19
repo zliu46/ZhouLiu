@@ -1,7 +1,5 @@
 <p align=”center”>
-
 <img width=”200" height=”200" src=”https://github.com/zliu46/ZhouLiu/blob/main/Banner.png" alt=”my banner”>
-
 </p>
 
 <h1 align="left">Hey 👋 What's up?</h1>
